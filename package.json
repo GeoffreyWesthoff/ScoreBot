@@ -1,0 +1,5 @@
+{
+    "name": "scorebot",
+    "version": "0.0.1",
+    "bin": "./src/scorebot.js"
+}
