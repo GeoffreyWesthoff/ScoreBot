@@ -14,6 +14,6 @@ run `npm install mongodb`
 
 input your bot token in the code
 
-run `node ``src/scorebot.js`
+run `node src/scorebot.js`
 
 
